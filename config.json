@@ -1,0 +1,10 @@
+{
+  "discordBotToken":"",
+  "prefix":"h!",
+  "lang":{
+    "startingbot":"Starter Discord-botten",
+    "foundmodules":"Fant disse modulene:",
+    "loggedinas":"Logget på discord som ",
+    "helpmodules":"Tilgjengelige kommandoer:"
+  }
+}

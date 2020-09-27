@@ -1,0 +1,11 @@
+{
+  "subreddits":[
+    ["birb","Birb"],
+    ["meme","Memes"],
+    ["coolguide","CoolGuides"]
+  ],
+  "lang":{
+    "help":"`@@££` - Vis et tilfeldig bilde fra r/£!\n",
+    "name":"Reddit"
+  }
+}

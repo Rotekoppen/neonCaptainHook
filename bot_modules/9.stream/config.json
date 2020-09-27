@@ -1,0 +1,14 @@
+{
+  "lang":{
+    "help":"`@@j` - Koble til en stemmekanal\n`@@p[$$]` - Spill av en strøm eller en Youtube-video\n`@@s` - Hopp over nåværende spillende låt\n`@@np` - Så avspillende, framtidige, og forrige avspillinger\nAvspilling er begrenset til kun lenker intil jeg forstår hvordan youtube apien fungerer\n",
+    "name":"Strømming",
+    "queue":{
+      "previously":"Tidligere spilt",
+      "nowplaying":"Spiller nå",
+      "nothing":"Ingenting",
+      "requested":"etterspurt av",
+      "nextup":"Neste",
+      "more":"til"
+    }
+  }
+}

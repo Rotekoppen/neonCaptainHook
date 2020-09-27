@@ -1,0 +1,8 @@
+{
+  "lang":{
+    "help":"`@@doggy` - Hent en hund fra thedogapi.com\n`@@kitty` - Hent en katt fra thecatapi.com\n",
+    "name":"Dyr"
+  },
+  "dogapikey":"",
+  "catapikey":""
+}
